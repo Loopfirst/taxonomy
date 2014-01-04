@@ -1288,11 +1288,11 @@ Electronics > Audio > Audio Accessories > Headphone Accessories > Headphone Cush
 Electronics > Audio > Audio Accessories > Headphone Accessories > Headphone Ear Tips
 Electronics > Audio > Audio Accessories > Karaoke System Accessories
 Electronics > Audio > Audio Accessories > Karaoke System Accessories > Karaoke Chips
-Electronics > Audio > Audio Accessories > MP3 Player Accessories
-Electronics > Audio > Audio Accessories > MP3 Player Accessories > MP3 Player Cases
 Electronics > Audio > Audio Accessories > Microphone Accessories
 Electronics > Audio > Audio Accessories > Microphone Accessories > Microphone Stands
 Electronics > Audio > Audio Accessories > Microphone Accessories > Microphone Windscreens
+Electronics > Audio > Audio Accessories > MP3 Player Accessories
+Electronics > Audio > Audio Accessories > MP3 Player Accessories > MP3 Player Cases
 Electronics > Audio > Audio Accessories > Satellite Radio Accessories
 Electronics > Audio > Audio Accessories > Speaker Accessories
 Electronics > Audio > Audio Accessories > Speaker Accessories > Speaker Grill Fabric
@@ -1326,13 +1326,13 @@ Electronics > Audio > Audio Components > Speakers > Studio Monitors
 Electronics > Audio > Audio Components > Speakers > Subwoofers
 Electronics > Audio > Audio Players & Recorders
 Electronics > Audio > Audio Players & Recorders > Boomboxes
-Electronics > Audio > Audio Players & Recorders > CD Players & Recorders
 Electronics > Audio > Audio Players & Recorders > Cassette Players & Recorders
+Electronics > Audio > Audio Players & Recorders > CD Players & Recorders
 Electronics > Audio > Audio Players & Recorders > Home Theater Systems
 Electronics > Audio > Audio Players & Recorders > Jukeboxes
 Electronics > Audio > Audio Players & Recorders > Karaoke Systems
-Electronics > Audio > Audio Players & Recorders > MP3 Players
 Electronics > Audio > Audio Players & Recorders > MiniDisc Players & Recorders
+Electronics > Audio > Audio Players & Recorders > MP3 Players
 Electronics > Audio > Audio Players & Recorders > Multitrack Recorders
 Electronics > Audio > Audio Players & Recorders > Radios
 Electronics > Audio > Audio Players & Recorders > Radios > Internet Radios
@@ -1452,8 +1452,8 @@ Electronics > Computers > Computer Components > Input Devices > Digital Note Tak
 Electronics > Computers > Computer Components > Input Devices > Fingerprint Readers
 Electronics > Computers > Computer Components > Input Devices > Game Controllers
 Electronics > Computers > Computer Components > Input Devices > Graphics Tablets
-Electronics > Computers > Computer Components > Input Devices > KVM Switches
 Electronics > Computers > Computer Components > Input Devices > Keyboard & Mouse Sets
+Electronics > Computers > Computer Components > Input Devices > KVM Switches
 Electronics > Computers > Computer Components > Input Devices > Memory Card Readers
 Electronics > Computers > Computer Components > Input Devices > Mice & Trackballs
 Electronics > Computers > Computer Components > Input Devices > Numeric Keypads
@@ -1541,8 +1541,8 @@ Electronics > Electronics Accessories > Cables > Audio & Video Cables > Speaker 
 Electronics > Electronics Accessories > Cables > Coaxial Cables
 Electronics > Electronics Accessories > Cables > Data Transfer Cables
 Electronics > Electronics Accessories > Cables > Data Transfer Cables > FireWire Cables
-Electronics > Electronics Accessories > Cables > Data Transfer Cables > USB Cables
 Electronics > Electronics Accessories > Cables > Data Transfer Cables > iOS Cables
+Electronics > Electronics Accessories > Cables > Data Transfer Cables > USB Cables
 Electronics > Electronics Accessories > Cables > KVM Cables
 Electronics > Electronics Accessories > Cables > Network Cables
 Electronics > Electronics Accessories > Cables > Network Cables > Ethernet Cables
@@ -1564,8 +1564,8 @@ Electronics > Electronics Accessories > Electronics Films & Shields > Electronic
 Electronics > Electronics Accessories > Electronics Films & Shields > Electronics Stickers & Decals > Computer Keyboard Stickers
 Electronics > Electronics Accessories > Electronics Films & Shields > Electronics Stickers & Decals > Game Console Stickers & Decals
 Electronics > Electronics Accessories > Electronics Films & Shields > Electronics Stickers & Decals > Laptop Stickers & Decals
-Electronics > Electronics Accessories > Electronics Films & Shields > Electronics Stickers & Decals > MP3 Player Stickers & Decals
 Electronics > Electronics Accessories > Electronics Films & Shields > Electronics Stickers & Decals > Mobile Phone Stickers & Decals
+Electronics > Electronics Accessories > Electronics Films & Shields > Electronics Stickers & Decals > MP3 Player Stickers & Decals
 Electronics > Electronics Accessories > Electronics Films & Shields > Electronics Stickers & Decals > Tablet Computer Stickers & Decals
 Electronics > Electronics Accessories > Electronics Films & Shields > Keyboard Protectors
 Electronics > Electronics Accessories > Electronics Films & Shields > Privacy Filters
@@ -1594,8 +1594,8 @@ Electronics > Electronics Accessories > Power > Battery Accessories > Camera Bat
 Electronics > Electronics Accessories > Power > Battery Accessories > General Purpose Battery Chargers
 Electronics > Electronics Accessories > Power > Chargers
 Electronics > Electronics Accessories > Power > Chargers > E-Book Reader Chargers
-Electronics > Electronics Accessories > Power > Chargers > MP3 Player Chargers
 Electronics > Electronics Accessories > Power > Chargers > Mobile Phone Chargers
+Electronics > Electronics Accessories > Power > Chargers > MP3 Player Chargers
 Electronics > Electronics Accessories > Power > Chargers > PDA Chargers
 Electronics > Electronics Accessories > Power > Chargers > Solar Chargers
 Electronics > Electronics Accessories > Power > Chargers > Tablet Computer Chargers
@@ -1707,11 +1707,11 @@ Electronics > Video > Video Accessories > Television Accessories > TV Scan Conve
 Electronics > Video > Video Editing Hardware & Production Equipment
 Electronics > Video > Video Multiplexers
 Electronics > Video > Video Players & Recorders
+Electronics > Video > Video Players & Recorders > Digital Video Recorders
 Electronics > Video > Video Players & Recorders > DVD & Blu-ray Players
 Electronics > Video > Video Players & Recorders > DVD Recorders
 Electronics > Video > Video Players & Recorders > DVD Recorders > Blu-Ray Recorders
 Electronics > Video > Video Players & Recorders > DVD Recorders > HD-DVD Recorders
-Electronics > Video > Video Players & Recorders > Digital Video Recorders
 Electronics > Video > Video Players & Recorders > Home Media Players
 Electronics > Video > Video Players & Recorders > VCRs
 Electronics > Video > Video Servers
@@ -2866,6 +2866,7 @@ Hardware > Tools > Measuring Tools & Sensors > Measuring Wheels
 Hardware > Tools > Measuring Tools & Sensors > Metal & Voltage Detectors
 Hardware > Tools > Measuring Tools & Sensors > Moisture Meters
 Hardware > Tools > Measuring Tools & Sensors > Multimeters
+Hardware > Tools > Measuring Tools & Sensors > pH Meters
 Hardware > Tools > Measuring Tools & Sensors > Pipe Locators
 Hardware > Tools > Measuring Tools & Sensors > Probes & Finders
 Hardware > Tools > Measuring Tools & Sensors > Protractors
@@ -2885,7 +2886,6 @@ Hardware > Tools > Measuring Tools & Sensors > UV Light Meters
 Hardware > Tools > Measuring Tools & Sensors > Vibration Meters
 Hardware > Tools > Measuring Tools & Sensors > Weather Forecasters & Stations
 Hardware > Tools > Measuring Tools & Sensors > Wire Locators
-Hardware > Tools > Measuring Tools & Sensors > pH Meters
 Hardware > Tools > Milling Machines
 Hardware > Tools > Multifunction Power Tools
 Hardware > Tools > Nail Pullers
@@ -4375,14 +4375,14 @@ Office Supplies > Filing & Organization > Binding Supplies > Binding Combs & Spi
 Office Supplies > Filing & Organization > Binding Supplies > Binding Machines
 Office Supplies > Filing & Organization > Business Card Books
 Office Supplies > Filing & Organization > Business Card Stands
-Office Supplies > Filing & Organization > CD/DVD Organizers
-Office Supplies > Filing & Organization > CD/DVD Organizers > CD/DVD Pouches & Visors
-Office Supplies > Filing & Organization > CD/DVD Organizers > CD/DVD Sleeves
-Office Supplies > Filing & Organization > CD/DVD Organizers > Jewel Cases
 Office Supplies > Filing & Organization > Calendars, Organizers & Planners
 Office Supplies > Filing & Organization > Card Files
 Office Supplies > Filing & Organization > Card Sleeves
 Office Supplies > Filing & Organization > Cash Boxes
+Office Supplies > Filing & Organization > CD/DVD Organizers
+Office Supplies > Filing & Organization > CD/DVD Organizers > CD/DVD Pouches & Visors
+Office Supplies > Filing & Organization > CD/DVD Organizers > CD/DVD Sleeves
+Office Supplies > Filing & Organization > CD/DVD Organizers > Jewel Cases
 Office Supplies > Filing & Organization > Desk Organizers
 Office Supplies > Filing & Organization > Desk Organizers > Desk Trays
 Office Supplies > Filing & Organization > File Boxes
@@ -5477,8 +5477,8 @@ Vehicles & Parts > Vehicle Parts & Accessories > Car Audio & Video > Car Audio &
 Vehicles & Parts > Vehicle Parts & Accessories > Car Audio & Video > Car Audio > Car Amplifiers
 Vehicles & Parts > Vehicle Parts & Accessories > Car Audio & Video > Car Audio > Car Audio Receivers
 Vehicles & Parts > Vehicle Parts & Accessories > Car Audio & Video > Car Audio > Car Audio Receivers > Car Satellite Radios
-Vehicles & Parts > Vehicle Parts & Accessories > Car Audio & Video > Car Audio > Car CD Changers
 Vehicles & Parts > Vehicle Parts & Accessories > Car Audio & Video > Car Audio > Car Cassette Players
+Vehicles & Parts > Vehicle Parts & Accessories > Car Audio & Video > Car Audio > Car CD Changers
 Vehicles & Parts > Vehicle Parts & Accessories > Car Audio & Video > Car Audio > Car Equalizers & Crossovers
 Vehicles & Parts > Vehicle Parts & Accessories > Car Audio & Video > Car Audio > Car Speakerphones
 Vehicles & Parts > Vehicle Parts & Accessories > Car Audio & Video > Car Audio > Car Speakers
