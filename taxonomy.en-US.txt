@@ -4669,56 +4669,55 @@ Sporting Goods > Gymnastics > Gymnastics Rings
 Sporting Goods > Gymnastics > Pommel Horses
 Sporting Goods > Gymnastics > Springboards
 Sporting Goods > Gymnastics > Vaulting Horses
-Sporting Goods > Indoor Games
-Sporting Goods > Indoor Games > Air Hockey
-Sporting Goods > Indoor Games > Air Hockey > Air Hockey Pucks
-Sporting Goods > Indoor Games > Air Hockey > Air Hockey Strikers
-Sporting Goods > Indoor Games > Air Hockey > Air Hockey Table Parts
-Sporting Goods > Indoor Games > Air Hockey > Air Hockey Tables
-Sporting Goods > Indoor Games > Billiards
-Sporting Goods > Indoor Games > Billiards > Billiard Ball Racks
-Sporting Goods > Indoor Games > Billiards > Billiard Balls
-Sporting Goods > Indoor Games > Billiards > Billiard Cue Accessories
-Sporting Goods > Indoor Games > Billiards > Billiard Cue Accessories > Billiard Cue Racks
-Sporting Goods > Indoor Games > Billiards > Billiard Cues & Bridges
-Sporting Goods > Indoor Games > Billiards > Billiard Gloves
-Sporting Goods > Indoor Games > Billiards > Billiard Table Lights
-Sporting Goods > Indoor Games > Billiards > Billiard Table Parts & Accessories
-Sporting Goods > Indoor Games > Billiards > Billiard Table Parts & Accessories > Billiard Cloth
-Sporting Goods > Indoor Games > Billiards > Billiard Table Parts & Accessories > Billiard Pockets
-Sporting Goods > Indoor Games > Billiards > Billiard Table Parts & Accessories > Billiard Table Brushes
-Sporting Goods > Indoor Games > Billiards > Billiard Tables
-Sporting Goods > Indoor Games > Bowling
-Sporting Goods > Indoor Games > Bowling > Bowling Ball Bags
-Sporting Goods > Indoor Games > Bowling > Bowling Balls
-Sporting Goods > Indoor Games > Bowling > Bowling Gloves
-Sporting Goods > Indoor Games > Bowling > Bowling Pins
-Sporting Goods > Indoor Games > Bowling > Bowling Wrist Supports
-Sporting Goods > Indoor Games > Darts
-Sporting Goods > Indoor Games > Darts > Dart Backboards
-Sporting Goods > Indoor Games > Darts > Dart Parts
-Sporting Goods > Indoor Games > Darts > Dart Parts > Dart Flights
-Sporting Goods > Indoor Games > Darts > Dart Parts > Dart Shafts
-Sporting Goods > Indoor Games > Darts > Dart Parts > Dart Tips
-Sporting Goods > Indoor Games > Darts > Dartboards
-Sporting Goods > Indoor Games > Darts > Single Darts
-Sporting Goods > Indoor Games > Foosball
-Sporting Goods > Indoor Games > Foosball > Foosball Balls
-Sporting Goods > Indoor Games > Foosball > Foosball Table Parts
-Sporting Goods > Indoor Games > Foosball > Foosball Tables
-Sporting Goods > Indoor Games > Multi-Game Tables
-Sporting Goods > Indoor Games > Ping Pong
-Sporting Goods > Indoor Games > Ping Pong > Ping Pong Balls
-Sporting Goods > Indoor Games > Ping Pong > Ping Pong Nets & Posts
-Sporting Goods > Indoor Games > Ping Pong > Ping Pong Paddle Accessories
-Sporting Goods > Indoor Games > Ping Pong > Ping Pong Paddles
-Sporting Goods > Indoor Games > Ping Pong > Ping Pong Robot Accessories
-Sporting Goods > Indoor Games > Ping Pong > Ping Pong Robots
-Sporting Goods > Indoor Games > Ping Pong > Ping Pong Tables
-Sporting Goods > Indoor Games > Table Shuffleboard
-Sporting Goods > Indoor Games > Table Shuffleboard > Shuffleboard Tables
-Sporting Goods > Indoor Games > Table Shuffleboard > Table Shuffleboard Powder
-Sporting Goods > Indoor Games > Table Shuffleboard > Table Shuffleboard Pucks
+Sporting Goods > Air Hockey
+Sporting Goods > Air Hockey > Air Hockey Pucks
+Sporting Goods > Air Hockey > Air Hockey Strikers
+Sporting Goods > Air Hockey > Air Hockey Table Parts
+Sporting Goods > Air Hockey > Air Hockey Tables
+Sporting Goods > Billiards
+Sporting Goods > Billiards > Billiard Ball Racks
+Sporting Goods > Billiards > Billiard Balls
+Sporting Goods > Billiards > Billiard Cue Accessories
+Sporting Goods > Billiards > Billiard Cue Accessories > Billiard Cue Racks
+Sporting Goods > Billiards > Billiard Cues & Bridges
+Sporting Goods > Billiards > Billiard Gloves
+Sporting Goods > Billiards > Billiard Table Lights
+Sporting Goods > Billiards > Billiard Table Parts & Accessories
+Sporting Goods > Billiards > Billiard Table Parts & Accessories > Billiard Cloth
+Sporting Goods > Billiards > Billiard Table Parts & Accessories > Billiard Pockets
+Sporting Goods > Billiards > Billiard Table Parts & Accessories > Billiard Table Brushes
+Sporting Goods > Billiards > Billiard Tables
+Sporting Goods > Bowling
+Sporting Goods > Bowling > Bowling Ball Bags
+Sporting Goods > Bowling > Bowling Balls
+Sporting Goods > Bowling > Bowling Gloves
+Sporting Goods > Bowling > Bowling Pins
+Sporting Goods > Bowling > Bowling Wrist Supports
+Sporting Goods > Darts
+Sporting Goods > Darts > Dart Backboards
+Sporting Goods > Darts > Dart Parts
+Sporting Goods > Darts > Dart Parts > Dart Flights
+Sporting Goods > Darts > Dart Parts > Dart Shafts
+Sporting Goods > Darts > Dart Parts > Dart Tips
+Sporting Goods > Darts > Dartboards
+Sporting Goods > Darts > Single Darts
+Sporting Goods > Foosball
+Sporting Goods > Foosball > Foosball Balls
+Sporting Goods > Foosball > Foosball Table Parts
+Sporting Goods > Foosball > Foosball Tables
+Sporting Goods > Multi-Game Tables
+Sporting Goods > Ping Pong
+Sporting Goods > Ping Pong > Ping Pong Balls
+Sporting Goods > Ping Pong > Ping Pong Nets & Posts
+Sporting Goods > Ping Pong > Ping Pong Paddle Accessories
+Sporting Goods > Ping Pong > Ping Pong Paddles
+Sporting Goods > Ping Pong > Ping Pong Robot Accessories
+Sporting Goods > Ping Pong > Ping Pong Robots
+Sporting Goods > Ping Pong > Ping Pong Tables
+Sporting Goods > Table Shuffleboard
+Sporting Goods > Table Shuffleboard > Shuffleboard Tables
+Sporting Goods > Table Shuffleboard > Table Shuffleboard Powder
+Sporting Goods > Table Shuffleboard > Table Shuffleboard Pucks
 Sporting Goods > Jumping
 Sporting Goods > Jumping > Bungee Jumping
 Sporting Goods > Jumping > Jumping Stilts
